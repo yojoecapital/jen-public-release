@@ -1,0 +1,7 @@
+# This is an example .desktop entry for linux machines
+[Desktop Entry]
+Name=Jen
+Comment=Jen is a locally played turn-based game
+Exec=/opt/jen/jen.x86_64
+Icon=/usr/share/icons/jen.png
+Type=Application
